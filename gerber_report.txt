@@ -1,0 +1,11 @@
+Plotted to 'C:\Users\HIRUSHA GIMHAN\OneDrive\Documents\KiCad\433 MHz RF Module\433 MHz RF Module-F_Cu.gbr'.
+Plotted to 'C:\Users\HIRUSHA GIMHAN\OneDrive\Documents\KiCad\433 MHz RF Module\433 MHz RF Module-B_Cu.gbr'.
+Plotted to 'C:\Users\HIRUSHA GIMHAN\OneDrive\Documents\KiCad\433 MHz RF Module\433 MHz RF Module-F_Paste.gbr'.
+Plotted to 'C:\Users\HIRUSHA GIMHAN\OneDrive\Documents\KiCad\433 MHz RF Module\433 MHz RF Module-B_Paste.gbr'.
+Plotted to 'C:\Users\HIRUSHA GIMHAN\OneDrive\Documents\KiCad\433 MHz RF Module\433 MHz RF Module-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\HIRUSHA GIMHAN\OneDrive\Documents\KiCad\433 MHz RF Module\433 MHz RF Module-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\HIRUSHA GIMHAN\OneDrive\Documents\KiCad\433 MHz RF Module\433 MHz RF Module-F_Mask.gbr'.
+Plotted to 'C:\Users\HIRUSHA GIMHAN\OneDrive\Documents\KiCad\433 MHz RF Module\433 MHz RF Module-B_Mask.gbr'.
+Plotted to 'C:\Users\HIRUSHA GIMHAN\OneDrive\Documents\KiCad\433 MHz RF Module\433 MHz RF Module-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\HIRUSHA GIMHAN\OneDrive\Documents\KiCad\433 MHz RF Module\433 MHz RF Module-job.gbrjob'.
+Info: Done.

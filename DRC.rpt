@@ -1,0 +1,42 @@
+** Drc report for 433 MHz RF Module.kicad_pcb **
+** Created on 2026-06-15T19:58:05+0530 **
+
+** Found 9 DRC violations **
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(137.6000 mm, 67.0000 mm): Rectangle on Edge.Cuts
+    @(155.9150 mm, 83.2650 mm): Segment on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(137.6000 mm, 67.0000 mm): Rectangle on Edge.Cuts
+    @(158.5150 mm, 83.2650 mm): Segment on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(137.6000 mm, 67.0000 mm): Rectangle on Edge.Cuts
+    @(161.0550 mm, 83.2650 mm): Segment on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(137.6000 mm, 67.0000 mm): Rectangle on Edge.Cuts
+    @(163.6550 mm, 85.9250 mm): Segment on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.5000 mm)
+    Rule: board setup constraints silk text height; warning
+    @(157.5000 mm, 80.9000 mm): PCB Text 'GND' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.5000 mm)
+    Rule: board setup constraints silk text height; warning
+    @(162.8000 mm, 81.0000 mm): PCB Text 'VCC' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.5000 mm)
+    Rule: board setup constraints silk text height; warning
+    @(160.1000 mm, 80.9000 mm): PCB Text 'DATA' on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(162.8000 mm, 81.0000 mm): PCB Text 'VCC' on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(162.8000 mm, 81.0000 mm): PCB Text 'VCC' on F.Silkscreen
+    @(162.3250 mm, 80.5550 mm): Segment on F.Silkscreen
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** End of Report **
